@@ -1,0 +1,117 @@
+body {
+  
+    font-family: Roboto;
+    font-size: 16px;
+   background-image:url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4bJgee0b8JS6Tal8p-AXtEzFytS9Fnhb8jQ&usqp=CAU');*/
+  
+  
+    
+  
+}
+
+  
+.container {
+  width:1024px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #bbbbbb;
+  background-color: #dadddd;
+  padding: 10px;
+  
+
+  
+}
+
+nav {
+  width:100%;
+  text-align: right;
+  
+  
+  
+}
+
+nav ul {
+    list-style-type: none; 
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+margin-left: 2px;
+  text-align: center;
+  
+  
+}
+
+nav ul li a {
+    display: block;
+  float:left;
+  width: 100px;
+  padding:5px;
+  border:1px solid white;
+  background-color: #597aed;
+  border-radius: 5px;
+  color:white;
+  text-decoration: none;
+  
+  
+}
+
+nav ul li a:hover {
+    background-color: #1226ed;
+  color:white;
+  
+  
+}
+aside{
+  float: right;
+    width: 25%;
+    margin-left: 1%;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid #bbbbbb;
+  margin-top: 30px;
+  
+  
+}
+
+
+
+input[type="text"] {
+    width: 220px;
+  
+  
+  
+  
+}
+.search{
+  margin-left: 740px;
+  margin-top: 30px;
+}
+#butt{
+  margin-left: 10px;
+}
+
+article {
+    text-align: justify;
+  margin-top: 30px;
+  
+}
+
+footer {
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #bbbbbb;
+  padding: 10px;
+  font-size: 0.8em;
+}
+.footer-title{
+  font-size: 14;
+  font-style: bold;
+}
+footer p{
+  text-align: center;
+  margin: 0 px;
+  
+}
